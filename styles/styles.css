@@ -19,6 +19,10 @@ body {
     justify-content: space-around;
 }
 
+.section-two div{
+    color: white;
+}
+
 .section-three {
     background-color: #e5e7eb;
 }
