@@ -76,12 +76,3 @@ body {
     
 }
 
-.timeline { 
-    display: grid;
-    grid-tmeplate-columns: [test1] 7rem [test2] 7rem
-}
-
-[data-event-id=="1"] { 
-    grid-row: 1;
-    grid-column: test1 / test2;
-}
